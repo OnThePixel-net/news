@@ -1,22 +1,22 @@
 {
   "articles": [
     {
-      "title": "Breaking News: API Released",
+      "title": "Neues Update für den Server",
       "date": "2025-03-05",
-      "description": "A new API for news feeds has just been launched! Read more about the features and how to integrate it.",
-      "url": "https://example.com/news/api-released"
+      "description": "Unser Server hat ein neues Update mit vielen Verbesserungen und neuen Features erhalten.",
+      "url": "https://onthepixel.net/news/update-1"
     },
     {
-      "title": "Tech Innovations in 2025",
-      "date": "2025-03-04",
-      "description": "The latest innovations in technology that are set to shape the future. Learn more about AI, IoT, and other advancements.",
-      "url": "https://example.com/news/tech-innovations-2025"
+      "title": "Wartungsarbeiten am Wochenende",
+      "date": "2025-03-08",
+      "description": "Wir führen am Wochenende geplante Wartungsarbeiten durch. Während dieser Zeit kann es zu Ausfällen kommen.",
+      "url": "https://onthepixel.net/news/maintenance"
     },
     {
-      "title": "New Version of Ionic Framework",
-      "date": "2025-03-03",
-      "description": "Ionic Framework's latest release brings several new features and improvements. Read more about the updates here.",
-      "url": "https://example.com/news/ionic-framework-release"
+      "title": "Neues Event angekündigt!",
+      "date": "2025-03-10",
+      "description": "Freut euch auf ein spannendes Event mit exklusiven Belohnungen und Herausforderungen.",
+      "url": "https://onthepixel.net/news/event"
     }
   ]
 }
