@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Breaking News: API Released",
+      "date": "2025-03-05",
+      "description": "A new API for news feeds has just been launched! Read more about the features and how to integrate it.",
+      "url": "https://example.com/news/api-released"
+    },
+    {
+      "title": "Tech Innovations in 2025",
+      "date": "2025-03-04",
+      "description": "The latest innovations in technology that are set to shape the future. Learn more about AI, IoT, and other advancements.",
+      "url": "https://example.com/news/tech-innovations-2025"
+    },
+    {
+      "title": "New Version of Ionic Framework",
+      "date": "2025-03-03",
+      "description": "Ionic Framework's latest release brings several new features and improvements. Read more about the updates here.",
+      "url": "https://example.com/news/ionic-framework-release"
+    }
+  ]
+}
